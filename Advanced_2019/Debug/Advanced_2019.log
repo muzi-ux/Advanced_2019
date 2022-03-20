@@ -1,15 +1,3 @@
-﻿  day01.c
-  day02.c
-  day03.c
-  day04.c
-  day05.c
-  day06.c
-C:\Users\rli41\Documents\learnObject\Advanced_2019\Advanced_2019\day06.c(53,28): warning C4013: “sub”未定义；假设外部返回 int
-  day07.c
-  day08.c
-  day09.c
-  day10.c
-  forPractice.c
-  正在生成代码...
-C:\Users\rli41\Documents\learnObject\Advanced_2019\Advanced_2019\day10.c(107): warning C4172: 返回局部变量或临时变量的地址: i
+﻿  day11.c
+C:\Users\rli41\Documents\learnObject\Advanced_2019\Advanced_2019\day11.c(17,13): warning C4098: “print”:“void”函数返回值
   Advanced_2019.vcxproj -> C:\Users\rli41\Documents\learnObject\Advanced_2019\Debug\Advanced_2019.exe
