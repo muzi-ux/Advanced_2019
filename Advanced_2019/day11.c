@@ -17,7 +17,7 @@ void print(struct student st)
     return 0;
 }
 
-int main()
+int m11()
 {
     // 数组是一组相同类型的数据集合
     // 结构体是一组不同类型数据的集合

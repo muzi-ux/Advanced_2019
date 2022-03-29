@@ -60,6 +60,11 @@ int m9()
 	* 
  	*  15                        ,              逗号表达式                      表达式1,表达式1,表达式1                       左到右
 	*/
+	int num1 = 3;
+	int num2 = 5;
 
+	printf("%d\n", num1 & num2); //  相同取1 不同取0 同0取0
+	printf("%d\n", num1 | num2); //  有1取1 同1取1 同0取0
+	printf("%d\n", num1 ^ num2); // 有1取1 相同取0
 	return 0;
 }

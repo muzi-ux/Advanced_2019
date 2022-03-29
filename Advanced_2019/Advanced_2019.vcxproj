@@ -150,7 +150,9 @@
     <ClCompile Include="day09.c" />
     <ClCompile Include="day10.c" />
     <ClCompile Include="day11.c" />
+    <ClCompile Include="day12.c" />
     <ClCompile Include="forPractice.c" />
+    <ClCompile Include="test.c" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Sub.h" />
